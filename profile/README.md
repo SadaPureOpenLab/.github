@@ -18,15 +18,17 @@ SadaPure is a food and personal-care brand based in Lahore, Pakistan. Open Lab i
 
 ## Smart Flour (Atta) Builder
 
-**[sadapure-flour-calculator](https://github.com/SadaPureOpenLab/sadapure-flour-calculator)** brings the published 18-ingredient blend, an optional 50-ingredient educational library, household planning and ingredient-cost arithmetic into one codebase.
+**[sadapure-flour-calculator](https://github.com/SadaPureOpenLab/sadapure-flour-calculator)** brings the published 18-ingredient blend, an optional 54-ingredient educational library, household planning and ingredient-cost arithmetic into one codebase.
 
 - Exact quantity scaling with a complete ingredient table and composition chart.
 - Explicit custom percentages, invalid-total checks and documented rounding.
 - English and Urdu names, allergen flags, local CSV/PDF exports and printable results.
-- Goal and concern selectors with linked guidance. Health concerns do not prescribe therapeutic flour ratios.
+- Goal and culinary-focus matching with visible ratio provenance and linked guidance. Experimental percentages are not clinical doses.
 - No accounts, trackers, clinical AI calls or stored health profiles.
 
-**Status:** source implementation and launch checks in progress. A public application link will be added only after a deployment is verified. Custom mixtures are educational, not manufactured SadaPure products or professionally reviewed formulations.
+**[Open the live Flour (Atta) Builder](https://sadapureopenlab.github.io/sadapure-flour-calculator/)**
+
+**Status:** public educational prototype. The initial GitHub build and deployment passed; 30 automated checks cover the calculator and all 110 goal/focus combinations. Custom mixtures are food-development examples, not manufactured SadaPure products or clinically validated formulations.
 
 ## A transparent recipe starts with every ingredient
 
@@ -52,7 +54,7 @@ Read our [contribution guide](https://github.com/SadaPureOpenLab/.github/blob/ma
 
 | Work | Status and evidence needed |
 |---|---|
-| Atta builder, planner and ingredient explorer | Current implementation; check the repository for actual validation and deployment status |
+| Flour (Atta) builder, planner and ingredient explorer | Current implementation; check the repository for actual validation and deployment status |
 | Roti nutrition estimates | Planned; requires exact food IDs and reviewed nutrient mapping |
 | Cold-pressed oil comparison | Planned; separate cosmetic use from explicitly labelled culinary use |
 | More published blend snapshots | Planned; source/version review before adding formulas |
@@ -70,3 +72,7 @@ Software licensing does not grant rights to the SadaPure name, emblem, product p
 [WhatsApp — product and order questions](https://wa.me/923084672336) · [Trustpilot](https://www.trustpilot.com/review/sadapure.com)
 
 These links match the official SadaPure website footer, checked on 14 October 2026. For software feedback, please use repository issues and avoid posting private health or customer records.
+
+
+Read the [22-goal research register](https://github.com/SadaPureOpenLab/sadapure-flour-calculator/blob/main/docs/goal-research.md), [ingredient references](https://github.com/SadaPureOpenLab/sadapure-flour-calculator/blob/main/docs/ingredient-research.md) and [books/article review scope](https://github.com/SadaPureOpenLab/sadapure-flour-calculator/blob/main/docs/research-bibliography.md).
+

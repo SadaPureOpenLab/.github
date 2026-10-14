@@ -4,7 +4,7 @@
 
 <p align="center"><strong>Open tools for transparent ingredients and informed everyday choices.</strong></p>
 
-<p align="center"><a href="https://github.com/SadaPureOpenLab/sadapure-atta-calculator">Explore the tools</a> · <a href="https://sadapure.com">SadaPure website</a> · <a href="https://github.com/SadaPureOpenLab/.github/blob/main/CONTRIBUTING.md">Contribute</a></p>
+<p align="center"><a href="https://github.com/SadaPureOpenLab/sadapure-flour-calculator">Explore the tools</a> · <a href="https://sadapure.com">SadaPure website</a> · <a href="https://github.com/SadaPureOpenLab/.github/blob/main/CONTRIBUTING.md">Contribute</a></p>
 
 SadaPure is a food and personal-care brand based in Lahore, Pakistan. Open Lab is where we build small, practical software that makes ingredient information easier to understand: see the full recipe, scale a quantity and check the assumptions behind a result.
 
@@ -16,9 +16,9 @@ SadaPure is a food and personal-care brand based in Lahore, Pakistan. Open Lab i
 | **Ingredient transparency** | **Household calculators** | **Future natural-product tools** |
 | Preserve sources and formula versions. | Plan measured flour use without a personal profile. | Add genuinely useful tools as reviewed data become available. |
 
-## Smart Atta Builder
+## Smart Flour (Atta) Builder
 
-**[sadapure-atta-calculator](https://github.com/SadaPureOpenLab/sadapure-atta-calculator)** brings the published 18-ingredient blend, an optional 50-ingredient educational library, household planning and ingredient-cost arithmetic into one codebase.
+**[sadapure-flour-calculator](https://github.com/SadaPureOpenLab/sadapure-flour-calculator)** brings the published 18-ingredient blend, an optional 50-ingredient educational library, household planning and ingredient-cost arithmetic into one codebase.
 
 - Exact quantity scaling with a complete ingredient table and composition chart.
 - Explicit custom percentages, invalid-total checks and documented rounding.
@@ -62,3 +62,11 @@ Read our [contribution guide](https://github.com/SadaPureOpenLab/.github/blob/ma
 Software licensing does not grant rights to the SadaPure name, emblem, product photography or packaging. See each repository's asset policy.
 
 **[Official website](https://sadapure.com)** · **[Product questions](https://sadapure.com/contact-us)** · **[Organic Insights](https://sadapure.com/organic-insights)** · contact@sadapure.com
+
+## Connect with SadaPure
+
+[Facebook](https://www.facebook.com/sadapureorganic) · [Instagram](https://www.instagram.com/sadapure.official) · [YouTube](https://www.youtube.com/@SadaPure-Organic) · [TikTok](https://www.tiktok.com/@sadapure.com) · [X](https://x.com/uzairsadapure) · [Pinterest](https://www.pinterest.com/sadapurecom)
+
+[WhatsApp — product and order questions](https://wa.me/923084672336) · [Trustpilot](https://www.trustpilot.com/review/sadapure.com)
+
+These links match the official SadaPure website footer, checked on 14 October 2026. For software feedback, please use repository issues and avoid posting private health or customer records.

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/342441002?s=200&v=4" width="84" height="84" alt="SadaPure emblem" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SadaPureOpenLab/sadapure-flour-calculator/main/public/assets/sadapure-icon-hd.jpg" width="84" height="84" alt="SadaPure emblem" /></p>
 
 ![SadaPure Open Lab — open tools for transparent ingredients](https://raw.githubusercontent.com/SadaPureOpenLab/.github/main/profile/assets/sadapure-open-lab-hero.svg)
 

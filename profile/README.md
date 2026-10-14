@@ -16,19 +16,20 @@ SadaPure is a food and personal-care brand based in Lahore, Pakistan. Open Lab i
 | **Ingredient transparency** | **Household calculators** | **Future natural-product tools** |
 | Preserve sources and formula versions. | Plan measured flour use without a personal profile. | Add genuinely useful tools as reviewed data become available. |
 
-## Smart Flour (Atta) Builder
+## Multigrain Flour (Atta) Calculator
 
-**[sadapure-flour-calculator](https://github.com/SadaPureOpenLab/sadapure-flour-calculator)** brings the published 18-ingredient blend, an optional 54-ingredient educational library, household planning and ingredient-cost arithmetic into one codebase.
+**[sadapure-flour-calculator](https://github.com/SadaPureOpenLab/sadapure-flour-calculator)** brings the published 18-ingredient blend, a 54-ingredient educational library and household planning into one codebase.
 
 - Exact quantity scaling with a complete ingredient table and composition chart.
-- Explicit custom percentages, invalid-total checks and documented rounding.
+- Results update instantly when the goal or quantity changes, in a fixed dark interface.
 - English and Urdu names, allergen flags, local CSV/PDF exports and printable results.
-- Goal and culinary-focus matching with visible ratio provenance and linked guidance. Experimental percentages are not clinical doses.
-- No accounts, trackers, clinical AI calls or stored health profiles.
+- 22 goal profiles with visible recipe provenance and linked guidance. Experimental percentages are not clinical doses.
+- Official multigrain product button and a visitor-reviewed custom-order email draft.
+- No accounts, trackers or stored customer or health profiles.
 
 **[Open the live Flour (Atta) Builder](https://sadapureopenlab.github.io/sadapure-flour-calculator/)**
 
-**Status:** public educational prototype. The initial GitHub build and deployment passed; 30 automated checks cover the calculator and all 110 goal/focus combinations. Custom mixtures are food-development examples, not manufactured SadaPure products or clinically validated formulations.
+**Status:** public educational prototype. The initial GitHub build and deployment passed; 32 local automated checks cover the calculator, all 22 goals and order-draft privacy. Custom mixtures are food-development examples, not manufactured SadaPure products or clinically validated formulations.
 
 ## A transparent recipe starts with every ingredient
 
